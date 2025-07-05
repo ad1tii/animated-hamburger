@@ -72,18 +72,6 @@ Feel free to incorporate this animated burger into your own projects! It works g
 - Menu button alternative
 - Design showcase
 
-## ⚙️ Getting Started
-
-To view and interact with the animated burger button:
-
-1. Download the project files.
-2. Open the `index.html` file in Visual Studio Code.
-3. Use the Live Server extension in VS Code to view the project in your web browser.
-
-## 🖱️ Interaction
-
-Hover over and click the burger button to see the animations in action.
-
 
 ## 🔄 Animations
 
