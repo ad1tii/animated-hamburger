@@ -27,8 +27,7 @@ The burger uses CSS variables for easy color customization:
   --patty: #8e562e;
 }
 ```
-
-## ## ⚙️ Getting Started
+ ## ⚙️ Getting Started
 
 To view and interact with the animated burger button:
 
